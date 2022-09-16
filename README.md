@@ -10,8 +10,8 @@ This is a simple but stylish Notes keeping Application that runs on browser.
 Steps to run this.
 1. Make a new folder and clone this repository in that folder.
 2. Open that folder inside terminal.
-3. Run "$npm install".
-4. Run "$npm start".
+3. Run "$npm install". (This will install all the Dependencies for the project on your machine)
+4. Run "$npm start". (This will start the project on your machine)
 
 The WebNotes will Automatically open in your browser.
 
